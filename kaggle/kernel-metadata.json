@@ -1,0 +1,13 @@
+{
+  "id": "divinedestiny/artisanmatch-live-server",
+  "title": "ArtisanMatch Live Server",
+  "code_file": "kaggle_server.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
